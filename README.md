@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+__  __    _    _  ___ 
+|  \/  |  / \  | |/ _ \
+| |\/| | / _ \ | | | | |
+| |  | |/ ___ \| | |_| |
+|_|  |_/_/   \_\_|\___/
 <!--
 **conanzero/conanzero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
